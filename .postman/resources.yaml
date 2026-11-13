@@ -1,0 +1,8 @@
+workspace:
+  id: 66e134cb-d0ff-4a63-8cbe-243cee5df588
+localResources:
+  specs:
+    - ../postman/specs/sss/sss.json
+resourceNameMappings:
+  specs:
+    - ../postman/specs/sss/sss.json: sss

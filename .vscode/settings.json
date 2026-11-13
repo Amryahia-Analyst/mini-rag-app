@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/amrya/anaconda3/envs/mini-rag-app/python.exe",
+    "terminal.integrated.env.windows": {
+        "UVICORN_PORT": "5000"
+    }
+}

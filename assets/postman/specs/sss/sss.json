@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "sss",
+    "version": "1.0.0",
+    "description": ""
+  },
+  "servers": [
+    {
+      "url": ""
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "welcome_request",
+        "responses": {}
+      }
+    }
+  }
+}
